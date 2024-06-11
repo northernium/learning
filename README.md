@@ -1,8 +1,8 @@
 # Learning
 
-![GitHub repo size](https://img.shields.io/github/repo-size/northernium/learning) ![GitHub contributors](https://img.shields.io/github/contributors/northernium/learning) ![GitHub stars](https://img.shields.io/github/stars/northernium/learning?style=social) ![GitHub forks](https://img.shields.io/github/forks/northernium/learning?style=social)
+ ![GitHub stars](https://img.shields.io/github/stars/northernium/learning?style=social) ![GitHub forks](https://img.shields.io/github/forks/northernium/learning?style=social)
 
-Welcome to my learning repository! This repository is documenting my journey.
+Welcome to my main learning repository! This repository is documenting my journey.
 
 ## About
 
